@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>desyrajapp</finalName>
+		<finalName>desyraj</finalName>
 		
 		<plugins>
 			<plugin>
